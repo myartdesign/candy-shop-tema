@@ -44,11 +44,11 @@ body, select {
     margin-bottom: $iluria.layout.header.margin.bottom;
 }
 .header-external{
-	display: table;
-	width: 100%;
-    background-color: $iluria.layout.container.header.background.color;
-    padding: 6px 0px;
 	display:none;
+	width: 100%;
+    background-color:none;
+    padding: 6px 0px;
+	
 }
 
 .header-intermediate {
