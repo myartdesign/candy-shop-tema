@@ -48,6 +48,7 @@ body, select {
 	width: 100%;
     background-color: $iluria.layout.container.header.background.color;
     padding: 6px 0px;
+	display:none;
 }
 
 .header-intermediate {
