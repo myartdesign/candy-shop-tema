@@ -103,7 +103,7 @@ body, select {
 #canvas-inner-body:before {
 	top: 8px;
 	position:relative;
-	display: block;
+	display: none;
 	bottom:;
 	width:100%;
 	background: url(banner-bg-top.png) repeat-x;
