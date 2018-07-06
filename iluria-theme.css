@@ -2092,6 +2092,7 @@ div#product-list-container div.product-item-container div.product-item-container
     margin-top: 7px;
     background-image: url("facebook-footer.png");
     background-repeat:no-repeat;
+    width:255px ;
 }
 #newsletter-email {
     border: medium none;
