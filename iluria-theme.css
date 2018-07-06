@@ -80,6 +80,7 @@ body, select {
     margin: 0 auto;
     padding-top: 45px;
     padding-bottom: 5px;
+    text-align:center;
 }
 .socialicons	{
 	padding: 5px;
