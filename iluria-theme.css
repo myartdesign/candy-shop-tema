@@ -71,8 +71,15 @@ body, select {
     width: 50%;
     position: relative;
 }
-	#footer {
+#footer {
     background-color: rgb(229, 239, 255);
+}
+#social {
+    clear: both;
+    width: 275px;
+    margin: 0 auto;
+    padding-top: 45px;
+    padding-bottom: 5px;
 }
 #canvas {
     width: 980px;
