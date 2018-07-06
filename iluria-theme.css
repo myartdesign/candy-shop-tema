@@ -81,6 +81,9 @@ body, select {
     padding-top: 45px;
     padding-bottom: 5px;
 }
+.socialicons	{
+	padding: 5px;
+}
 #canvas {
     width: 980px;
     margin: auto;
