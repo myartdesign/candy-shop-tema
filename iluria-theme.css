@@ -316,9 +316,9 @@ form input.btn {
 }
 
 .pages-item a{
-    color: $iluria.layout.menu.pages.text.color;
-    text-decoration: $iluria.layout.menu.pages.text.decoration;
+    color:#9b5ea1;
 }
+
 
 .pages-item a:hover{
     text-decoration: underline;
